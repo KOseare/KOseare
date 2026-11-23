@@ -2,7 +2,7 @@
 
 # Dario Ian Funes
 
-**Backend Developer @ PONCE AgTech** · **Computer Engineering (UNMDP)** · Mar del Plata, AR
+**Backend Developer @ PONCE AgTech** · **Software Engineering (UNMDP)** · Mar del Plata, AR
 
 *Building scalable backend systems, cloud infrastructure, and production-ready AI integrations.*
 
